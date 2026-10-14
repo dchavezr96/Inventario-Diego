@@ -1,0 +1,6 @@
+{
+  "name": "SENA LabConstrucción - Gestión de Inventario y Préstamos",
+  "description": "Sistema profesional de administración de inventario, control de herramientas, equipos, préstamos, devoluciones y trazabilidad para el Laboratorio de Construcción SENA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
